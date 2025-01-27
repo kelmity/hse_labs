@@ -1,2 +1,1 @@
-# classicML
-ML projects form colab
+# laboratory work on linear algebra at HSE
